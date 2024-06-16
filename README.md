@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0075-sort-colors) |
+| [0330-patching-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0330-patching-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0502-ipo](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -38,6 +39,7 @@
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
