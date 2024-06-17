@@ -22,6 +22,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Hash Table
 |  |
 | ------- |
@@ -73,7 +74,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0633-sum-of-square-numbers) |
