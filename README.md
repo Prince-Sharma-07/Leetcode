@@ -21,6 +21,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 # Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 # Hash Table
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 # Counting Sort
 |  |
 | ------- |
@@ -99,3 +102,11 @@
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+# Simulation
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+# Combinatorics
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
