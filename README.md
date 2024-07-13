@@ -230,6 +230,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0002-add-two-numbers) |
+| [0856-consecutive-numbers-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [1642-water-bottles](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -254,4 +255,8 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Enumeration
+|  |
+| ------- |
+| [0856-consecutive-numbers-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
