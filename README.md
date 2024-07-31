@@ -260,6 +260,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2846-robot-collisions) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Math
 |  |
 | ------- |
@@ -269,6 +270,7 @@
 | [1642-water-bottles](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2645-pass-the-pillow) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Recursion
 |  |
 | ------- |
@@ -355,4 +357,8 @@
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
