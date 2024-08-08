@@ -253,6 +253,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0136-single-number) |
 ## Linked List
 |  |
@@ -276,6 +277,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0258-add-digits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0258-add-digits) |
 | [0856-consecutive-numbers-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [1642-water-bottles](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1642-water-bottles) |
