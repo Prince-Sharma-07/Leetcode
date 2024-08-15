@@ -151,6 +151,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -213,6 +214,7 @@
 | [0229-majority-element-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0890-lemonade-change](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1293-three-consecutive-odds) |
