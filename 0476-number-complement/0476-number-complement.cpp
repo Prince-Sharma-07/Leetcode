@@ -3,10 +3,8 @@ public:
     int findComplement(int num) {
         int num_bits = (int)(log2(num)) + 1;
 
-        for(int i = 0; i<num_bits; i++){
-            num = num ^ (1<<i);
-        }
+        unsigned int mask = (1U<<num_bits) -1;
 
-        return num;
+        return num^mask;
     }
 };
