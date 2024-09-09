@@ -246,6 +246,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2411-spiral-matrix-iv](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2486-most-frequent-even-element](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -294,6 +295,7 @@
 | [0002-add-two-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0002-add-two-numbers) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -307,6 +309,7 @@
 | [2155-find-missing-observations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2155-find-missing-observations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2846-robot-collisions) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -394,6 +397,7 @@
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Number Theory
 |  |
 | ------- |
