@@ -13,28 +13,27 @@
 class Solution {
 public:
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
-         vector<int> values;
-         vector<int> hcf;
+        //  vector<int> values;
+        //  vector<int> hcf;
          ListNode* temp = head;
-         while(temp){
-            values.push_back(temp->val);
-            temp = temp->next;
-         }
+        //  while(temp){
+        //     values.push_back(temp->val);
+        //     temp = temp->next;
+        //  }
 
-         for(int i = 0; i<values.size()-1; i++){
-             hcf.push_back(__gcd(values[i] , values[i+1]));
-         }
+        //  for(int i = 0; i<values.size()-1; i++){
+        //      hcf.push_back(__gcd(values[i] , values[i+1]));
+        //  }
 
-         int i = 0;
+        //  int i = 0;
          temp = head;
-         while(i<hcf.size()){
+         while(temp->next){
             ListNode* ptr = temp;
             ptr = temp->next;
-            temp->next = new ListNode(hcf[i]);
+            temp->next = new ListNode(__gcd(temp->val , ptr->val));
             temp = temp->next;
             temp->next = ptr;
             temp = temp->next;
-            i++;
          }
          return head;
     }
