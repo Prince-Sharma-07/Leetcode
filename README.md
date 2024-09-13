@@ -197,6 +197,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -383,6 +385,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -395,6 +398,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -472,4 +476,8 @@
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
