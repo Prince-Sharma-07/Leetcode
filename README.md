@@ -355,6 +355,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0539-minimum-time-difference](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0726-number-of-atoms) |
@@ -491,4 +492,16 @@
 |  |
 | ------- |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
