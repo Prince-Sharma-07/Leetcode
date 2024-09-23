@@ -11,20 +11,20 @@
  */
 class Solution {
 public:
-    TreeNode* create(TreeNode* root , int no){
-        if(!root){
-            TreeNode* temp = new TreeNode(no);
-            return temp;
+    TreeNode* create(vector<int> &preorder , int lower , int upper , int &idx){
+        if(idx == preorder.size() || lower > preorder[idx] || upper < preorder[idx]){
+            return NULL;
         }
-        if(root->val > no) root->left = create(root->left , no);
-        else root->right = create(root->right , no);
+
+        TreeNode* root = new TreeNode(preorder[idx++]);
+
+        root->left = create(preorder , lower , root->val , idx);
+        root->right = create(preorder , root->val ,upper , idx);
+
         return root;
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        TreeNode* root = NULL;
-        for(int i = 0; i<preorder.size(); i++){
-            root = create(root , preorder[i]);
-        }
-        return root;
+        int idx = 0;
+        return create(preorder , INT_MIN , INT_MAX , idx);
     }
 };
