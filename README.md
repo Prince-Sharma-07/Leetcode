@@ -199,6 +199,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -399,6 +400,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -415,6 +417,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -501,6 +504,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
