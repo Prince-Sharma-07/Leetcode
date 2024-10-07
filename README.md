@@ -343,6 +343,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2846-robot-collisions) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Math
@@ -388,6 +389,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
@@ -402,6 +404,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2846-robot-collisions) |
 ## Enumeration
 |  |
