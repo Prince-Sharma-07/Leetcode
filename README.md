@@ -405,6 +405,7 @@
 | [0539-minimum-time-difference](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -587,6 +588,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
