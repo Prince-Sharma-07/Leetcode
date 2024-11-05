@@ -382,6 +382,7 @@
 | [0539-minimum-time-difference](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0856-consecutive-numbers-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [1642-water-bottles](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2645-pass-the-pillow) |
