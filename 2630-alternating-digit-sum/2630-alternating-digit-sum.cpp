@@ -1,16 +1,24 @@
 class Solution {
 public:
     int alternateDigitSum(int n) {
-        int ans = 0;
+        int rev = 0;
 
-        string s = to_string(n);
+        while(n){
+            rev = (rev*10)+n%10;
+            n/=10;
+        }
 
-        for(int i = 0; i<s.size(); i++){
+        int i = 0 , ans = 0;
+        while(rev){
             if(i%2 == 0){
-                ans += s[i] - '0';
+                ans += rev%10;
+                rev /= 10;
+                i++;
             }
             else{
-                ans -= s[i] - '0';
+                ans -= rev%10;
+                rev /= 10;
+                i++;
             }
         }
         return ans;
