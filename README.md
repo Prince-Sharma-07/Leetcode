@@ -388,6 +388,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2155-find-missing-observations) |
+| [2630-alternating-digit-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
