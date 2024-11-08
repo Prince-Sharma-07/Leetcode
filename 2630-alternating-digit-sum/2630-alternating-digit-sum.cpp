@@ -10,13 +10,13 @@ public:
 
         int i = 0 , ans = 0;
         while(rev){
-            if(i%2 == 0){
-                ans += rev%10;
+            if(i&1){
+                ans -= rev%10;
                 rev /= 10;
                 i++;
             }
             else{
-                ans -= rev%10;
+                ans += rev%10;
                 rev /= 10;
                 i++;
             }
