@@ -13,12 +13,12 @@ public:
             if(i&1){
                 ans -= rev%10;
                 rev /= 10;
-                i++;
+                i = 0;
             }
             else{
                 ans += rev%10;
                 rev /= 10;
-                i++;
+                i = 1;
             }
         }
         return ans;
