@@ -4,9 +4,7 @@ public:
         if(i>j){
             return;
         }
-        swap(s[i] , s[j]);
-        i++;
-        j--;
+        swap(s[i++] , s[j--]); 
         rev(s , i , j);
     }
     void reverseString(vector<char>& s) {
