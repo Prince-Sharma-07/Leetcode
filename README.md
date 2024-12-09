@@ -322,6 +322,7 @@
 | [3221-find-the-peaks](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3226-minimum-number-game) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3427-special-array-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3427-special-array-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
@@ -383,6 +384,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3427-special-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -658,6 +660,7 @@
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3427-special-array-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3427-special-array-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
