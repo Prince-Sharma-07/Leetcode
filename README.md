@@ -695,4 +695,8 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
