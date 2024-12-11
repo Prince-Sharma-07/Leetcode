@@ -14,13 +14,9 @@ public:
         int n = nums.size() ,l = 0 , h = n-1;
 
          while(l<h){
-            int mid  = l + (h-l)/2;
-            if(mid > 0 && mid < n-1 && nums[mid] < nums[mid-1] && nums[mid] < nums[mid+1]){
-              l = mid;
-              break;
-            }
-            else if(nums[mid] > nums[h]) l = mid + 1;
-            else h = mid-1;
+            int mid = l + (h-l)/2;
+            if(nums[mid] > nums[h]) l = mid+1;
+            else h = mid;
         }
 
         int ans1 =  BinarySearch(nums , 0 , l-1 , target);
