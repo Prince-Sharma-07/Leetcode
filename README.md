@@ -456,6 +456,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1965-sum-of-digits-in-base-k](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2155-find-missing-observations) |
 | [2630-alternating-digit-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2630-alternating-digit-sum) |
