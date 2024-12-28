@@ -317,6 +317,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2155-find-missing-observations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -462,6 +463,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2155-find-missing-observations) |
 | [2630-alternating-digit-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -617,6 +619,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0258-add-digits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
 |  |
