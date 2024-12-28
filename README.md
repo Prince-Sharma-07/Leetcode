@@ -290,6 +290,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0890-lemonade-change](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0948-sort-an-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -454,6 +455,7 @@
 | [0264-ugly-number-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0856-consecutive-numbers-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [1031-add-to-array-form-of-integer](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1448-maximum-69-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
