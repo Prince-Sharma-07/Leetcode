@@ -10,7 +10,7 @@ public:
        
         for(int i = 0; i<nums.size()-1; i++){
             curr += nums[i];
-            sum = sum - nums[i];
+            sum -= nums[i];
             if(curr >= sum) count++;
         }
 
