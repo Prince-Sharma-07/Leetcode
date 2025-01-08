@@ -340,6 +340,7 @@
 | [3221-find-the-peaks](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3226-minimum-number-game) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3427-special-array-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -533,6 +534,7 @@
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3451-string-compression-iii) |
 ## Stack
 |  |
@@ -727,6 +729,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
@@ -734,14 +737,17 @@
 | [0812-rotate-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
 | ------- |
