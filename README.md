@@ -299,6 +299,7 @@
 | [1293-three-consecutive-odds](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -469,6 +470,7 @@
 | [0856-consecutive-numbers-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [1031-add-to-array-form-of-integer](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1642-water-bottles) |
