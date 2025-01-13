@@ -381,6 +381,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -550,6 +551,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
@@ -682,6 +684,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2486-most-frequent-even-element](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
