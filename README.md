@@ -340,6 +340,7 @@
 | [2411-spiral-matrix-iv](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2486-most-frequent-even-element](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2502-sort-the-people) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -433,6 +434,7 @@
 | [0476-number-complement](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
@@ -794,4 +796,8 @@
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2868-continuous-subarrays) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
