@@ -431,6 +431,7 @@
 | [0029-divide-two-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -476,6 +477,7 @@
 | [0002-add-two-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -505,6 +507,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0231-power-of-two) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
