@@ -367,6 +367,7 @@
 | [0264-ugly-number-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0726-number-of-atoms) |
@@ -515,6 +516,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2868-continuous-subarrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -526,6 +528,7 @@
 | [0214-shortest-palindrome](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0567-permutation-in-string) |
@@ -692,6 +695,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0948-sort-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
