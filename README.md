@@ -160,6 +160,7 @@
 | [1448-maximum-69-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1448-maximum-69-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1879-maximum-score-from-removing-stones](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2032-largest-odd-number-in-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -213,6 +214,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1304-longest-happy-string) |
+| [1879-maximum-score-from-removing-stones](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1962-single-threaded-cpu](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2868-continuous-subarrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -492,6 +494,7 @@
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1879-maximum-score-from-removing-stones](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
