@@ -407,6 +407,7 @@
 | [0344-reverse-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -538,6 +539,7 @@
 | [0344-reverse-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0567-permutation-in-string) |
@@ -715,6 +717,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0392-is-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1236-n-th-tribonacci-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
