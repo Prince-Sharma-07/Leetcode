@@ -362,6 +362,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3429-special-array-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
