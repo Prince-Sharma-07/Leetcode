@@ -163,6 +163,7 @@
 | [1879-maximum-score-from-removing-stones](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2032-largest-odd-number-in-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -200,6 +201,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1962-single-threaded-cpu](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1962-single-threaded-cpu) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -517,6 +519,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2155-find-missing-observations) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2630-alternating-digit-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2645-pass-the-pillow) |
