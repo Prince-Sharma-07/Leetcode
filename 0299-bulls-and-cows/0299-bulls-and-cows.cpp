@@ -1,7 +1,7 @@
 class Solution {
 public:
     string getHint(string secret, string guess) {
-        unordered_map<char , int> mp;
+          unordered_map<char , int> mp;
         int bulls = 0 , cows = 0;
 
         for(auto i : secret){
