@@ -222,6 +222,7 @@
 | [1879-maximum-score-from-removing-stones](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1962-single-threaded-cpu](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2434-design-a-number-container-system](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -401,6 +402,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2434-design-a-number-container-system](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2486-most-frequent-even-element](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -834,6 +836,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -843,4 +846,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
