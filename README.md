@@ -442,6 +442,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -510,6 +511,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0258-add-digits) |
