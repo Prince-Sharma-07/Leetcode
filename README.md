@@ -538,6 +538,7 @@
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2630-alternating-digit-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -781,6 +782,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0051-n-queens) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Monotonic Stack
 |  |
 | ------- |
