@@ -151,6 +151,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -284,6 +285,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0051-n-queens) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -754,6 +756,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0045-jump-game-ii) |
 | [0264-ugly-number-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0392-is-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1063-best-sightseeing-pair) |
