@@ -345,6 +345,7 @@
 | [1962-single-threaded-cpu](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2107-find-unique-binary-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2155-find-missing-observations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -404,6 +405,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2434-design-a-number-container-system](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2486-most-frequent-even-element](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -599,6 +601,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -787,6 +790,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0051-n-queens) |
+| [2107-find-unique-binary-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Monotonic Stack
 |  |
