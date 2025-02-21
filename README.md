@@ -248,6 +248,7 @@
 | [0975-range-sum-of-bst](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -264,6 +265,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0684-redundant-connection) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -397,6 +399,7 @@
 | [0952-word-subsets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0952-word-subsets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -668,6 +671,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -698,6 +702,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -872,6 +877,7 @@
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2434-design-a-number-container-system](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Interactive
 |  |
