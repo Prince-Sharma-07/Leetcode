@@ -309,6 +309,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0890-lemonade-change](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0890-lemonade-change) |
@@ -818,6 +819,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0724-find-pivot-index) |
 | [1694-make-sum-divisible-by-p](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
