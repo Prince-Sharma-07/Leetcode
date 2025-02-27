@@ -442,6 +442,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -490,6 +491,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0141-linked-list-cycle) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
