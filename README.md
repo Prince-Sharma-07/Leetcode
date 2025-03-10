@@ -210,6 +210,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2846-robot-collisions](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2846-robot-collisions) |
 | [3226-minimum-number-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3226-minimum-number-game) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -227,6 +228,7 @@
 | [2868-continuous-subarrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -383,6 +385,7 @@
 | [3429-special-array-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3429-special-array-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Hash Table
 |  |
 | ------- |
