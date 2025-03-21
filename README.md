@@ -301,6 +301,7 @@
 | [0045-jump-game-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -521,6 +522,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0258-add-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1642-water-bottles) |
@@ -759,6 +761,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0054-spiral-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
