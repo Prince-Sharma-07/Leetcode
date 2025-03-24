@@ -3,9 +3,7 @@ public:
     int countDays(int days, vector<vector<int>>& meetings) {
          
         sort(meetings.begin() , meetings.end());
-        for(auto i : meetings){
-            cout<<i[0]<<","<<i[1]<<" ";
-        }
+       
         int temp , ans = 0 , maxi = INT_MIN , n = meetings.size() , mini = meetings[0][1];
         vector<vector<int>> meeting;
         meeting.push_back({meetings[0][0] , meetings[0][1]});
