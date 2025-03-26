@@ -544,6 +544,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2470-removing-stars-from-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -664,6 +665,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2470-removing-stars-from-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -693,6 +695,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2470-removing-stars-from-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2846-robot-collisions) |
 | [3447-clear-digits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3447-clear-digits) |
