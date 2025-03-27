@@ -9,8 +9,9 @@ public:
             }
         }
 
-        sort(temp.begin() , temp.end());
+       
         int n = temp.size() , ans = 0;
+        nth_element(temp.begin() , temp.begin()+n/2 , temp.end());
 
         for(int i = 0; i<n; i++){
             if(i != n/2 ){
