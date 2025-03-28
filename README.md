@@ -208,6 +208,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1962-single-threaded-cpu](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -356,6 +357,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -437,6 +439,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -469,6 +472,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
