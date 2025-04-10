@@ -186,6 +186,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0229-majority-element-ii) |
@@ -308,6 +309,7 @@
 | [0049-group-anagrams](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -461,6 +463,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0151-reverse-words-in-a-string) |
