@@ -615,6 +615,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -725,6 +726,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0204-count-primes) |
 | [0856-consecutive-numbers-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [2998-count-symmetric-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3221-find-the-peaks) |
 ## Tree
 |  |
