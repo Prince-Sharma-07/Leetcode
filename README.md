@@ -322,6 +322,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -472,6 +473,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
