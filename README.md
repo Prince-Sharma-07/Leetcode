@@ -728,6 +728,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0726-number-of-atoms](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -764,6 +765,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -798,6 +800,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -943,6 +946,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -1002,6 +1006,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2434-design-a-number-container-system](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Interactive
@@ -1013,4 +1018,8 @@
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
