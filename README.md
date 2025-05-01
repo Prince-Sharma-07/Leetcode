@@ -346,6 +346,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
