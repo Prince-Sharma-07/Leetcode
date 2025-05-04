@@ -654,6 +654,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -734,6 +735,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0726-number-of-atoms](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1015,6 +1017,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2434-design-a-number-container-system](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Interactive
