@@ -552,6 +552,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -646,6 +647,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0231-power-of-two) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2050-count-good-numbers) |
