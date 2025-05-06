@@ -225,6 +225,7 @@
 | [3226-minimum-number-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3226-minimum-number-game) |
 | [3430-count-days-without-meetings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3859-maximum-product-of-two-digits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -642,6 +643,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
