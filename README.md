@@ -613,6 +613,7 @@
 | [0367-valid-perfect-square](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0539-minimum-time-difference](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0728-self-dividing-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0856-consecutive-numbers-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [1031-add-to-array-form-of-integer](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1236-n-th-tribonacci-number) |
