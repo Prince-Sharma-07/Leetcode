@@ -475,6 +475,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3707-find-the-most-common-response](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3707-find-the-most-common-response) |
 ## Two Pointers
 |  |
@@ -648,6 +649,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -733,6 +735,7 @@
 | [3447-clear-digits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3707-find-the-most-common-response](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3707-find-the-most-common-response) |
 ## Stack
 |  |
@@ -898,6 +901,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2486-most-frequent-even-element](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3707-find-the-most-common-response](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3707-find-the-most-common-response) |
 ## Dynamic Programming
 |  |
@@ -910,6 +914,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Shortest Path
 |  |
 | ------- |
