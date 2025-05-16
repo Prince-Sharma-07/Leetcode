@@ -429,6 +429,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3707-find-the-most-common-response](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3707-find-the-most-common-response) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -774,6 +775,7 @@
 | [2998-count-symmetric-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3221-find-the-peaks) |
 | [3548-find-the-count-of-good-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Tree
 |  |
 | ------- |
@@ -857,6 +859,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2411-spiral-matrix-iv](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -971,6 +974,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2358-number-of-ways-to-split-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [3427-special-array-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3427-special-array-ii) |
+| [3849-equal-sum-grid-partition-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Binary Search Tree
 |  |
 | ------- |
