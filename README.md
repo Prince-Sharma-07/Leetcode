@@ -428,6 +428,7 @@
 | [3430-count-days-without-meetings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3639-zero-array-transformation-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3707-find-the-most-common-response](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3707-find-the-most-common-response) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -980,6 +981,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2358-number-of-ways-to-split-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [3427-special-array-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3427-special-array-ii) |
+| [3639-zero-array-transformation-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Binary Search Tree
 |  |
