@@ -314,6 +314,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0051-n-queens) |
@@ -489,6 +490,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -749,6 +751,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -920,6 +923,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -965,6 +969,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Quickselect
