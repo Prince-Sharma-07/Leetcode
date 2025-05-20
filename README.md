@@ -308,6 +308,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -438,6 +439,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
