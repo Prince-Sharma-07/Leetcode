@@ -330,6 +330,7 @@
 | [0136-single-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -500,6 +501,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -621,6 +623,7 @@
 | [0029-divide-two-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0231-power-of-two) |
