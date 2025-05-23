@@ -331,6 +331,7 @@
 | [0118-pascals-triangle](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0189-rotate-array) |
@@ -944,6 +945,7 @@
 | [0045-jump-game-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0647-palindromic-substrings) |
