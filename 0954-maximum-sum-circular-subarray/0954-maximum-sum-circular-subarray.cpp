@@ -1,23 +1,27 @@
 class Solution {
 public:
+    int kadane(vector<int>& nums) {
+        int maxi = INT_MIN, currSum = 0;
+
+        for (int i = 0; i<nums.size(); i++) {
+             currSum += nums[i];
+             maxi = max(maxi, currSum);
+             if (currSum < 0) currSum = 0;
+        }
+        return maxi;
+    }
     int maxSubarraySumCircular(vector<int>& nums) {
-        int currMaxSum = 0, currMinSum, maxSum = INT_MIN, TotalSum = 0, minSum = INT_MAX;
-
-        for (int i = 0; i < nums.size(); i++) {
-            currMaxSum += nums[i];
-            currMinSum += nums[i];
-
-            maxSum = max(maxSum, currMaxSum);
-            minSum = min(minSum, currMinSum);
-
-            if (currMaxSum < 0)
-                currMaxSum = 0;
-            if (currMinSum > 0)
-                currMinSum = 0;
+        int totalSum = accumulate(nums.begin(), nums.end(), 0);
+        int maxSum = kadane(nums);
+        cout<<maxSum;
+        for(int i = 0; i<nums.size(); i++){
+            nums[i] *= -1;
         }
 
-        TotalSum = accumulate(nums.begin(), nums.end(), 0);
+        int minSum = -1*(kadane(nums));
 
-        return max(maxSum , TotalSum - minSum);
+        if(totalSum == minSum) return maxSum;
+        
+        return max(maxSum, totalSum - minSum);
     }
 };
