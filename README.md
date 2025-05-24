@@ -428,6 +428,7 @@
 | [2846-robot-collisions](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2846-robot-collisions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3194-find-words-containing-character](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3226-minimum-number-game) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -756,6 +757,7 @@
 | [2727-number-of-senior-citizens](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3194-find-words-containing-character](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
