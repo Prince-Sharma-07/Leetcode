@@ -20,7 +20,7 @@ public:
 
         int minSum = -1*(kadane(nums));
 
-        if(totalSum == minSum) return maxSum;
+        if(maxSum < 0) return maxSum;
         
         return max(maxSum, totalSum - minSum);
     }
