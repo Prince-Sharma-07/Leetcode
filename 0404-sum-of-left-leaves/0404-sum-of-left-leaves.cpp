@@ -14,9 +14,9 @@ public:
     int count(TreeNode* root , char c , int &sum){
         if(root == NULL) return 0;
 
-        count(root->left , 'l' , sum);
-        if(!root->left && !root->right && c == 'l') sum += root->val;
-        count(root->right , 'r' , sum);
+        count(root->left , 'l' , sum);  //send a char = 'l' that describes this leaf node is left;
+        if(!root->left && !root->right && c == 'l') sum += root->val;  //if the leaf node is left then add it to the sum
+        count(root->right , 'r' , sum); //send a char = 'r' that describes this leaf node is left;
 
         return sum;
     }
