@@ -11,25 +11,17 @@
  */
 class Solution {
 public:
-    int sumOfLeftLeaves(TreeNode* root) {
-        if (root == nullptr)
-      return 0;
+    int count(TreeNode* root , char c , int &sum){
+        if(root == NULL) return 0;
 
-    int ans = 0;
+        count(root->left , 'l' , sum);
+        if(!root->left && !root->right && c == 'l') sum += root->val;
+        count(root->right , 'r' , sum);
 
-    // If the left child exists
-    if (root->left) {
-      // Check if the left child is a leaf (no left or right child)
-      if (root->left->left == nullptr && root->left->right == nullptr)
-        ans += root->left->val;  // Add its value to the answer
-      else
-        ans += sumOfLeftLeaves(root->left);  // Otherwise, check recursively in the left subtree
+        return sum;
     }
-
-    // Always check the right subtree recursively
-    ans += sumOfLeftLeaves(root->right);
-
-    return ans;  
-
+    int sumOfLeftLeaves(TreeNode* root) {
+        int sum = 0;
+        return count(root , 'r' , sum);
     }
 };
