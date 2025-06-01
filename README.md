@@ -575,6 +575,7 @@
 | [0190-reverse-bits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -963,6 +964,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
