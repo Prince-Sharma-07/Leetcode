@@ -345,6 +345,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1028,6 +1029,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -1107,6 +1109,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2434-design-a-number-container-system](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Interactive
