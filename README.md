@@ -266,6 +266,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -291,6 +292,7 @@
 | [0112-path-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -729,6 +731,7 @@
 | [0214-shortest-palindrome](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -850,6 +853,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -889,6 +893,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1120,6 +1125,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
