@@ -513,6 +513,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3707-find-the-most-common-response](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3707-find-the-most-common-response) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -789,6 +790,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3707-find-the-most-common-response](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3707-find-the-most-common-response) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -968,6 +970,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3707-find-the-most-common-response](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3707-find-the-most-common-response) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
