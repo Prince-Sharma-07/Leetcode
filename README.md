@@ -180,6 +180,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0684-redundant-connection) |
+| [0813-all-paths-from-source-to-target](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -275,6 +276,7 @@
 | [0684-redundant-connection](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0813-all-paths-from-source-to-target](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0975-range-sum-of-bst](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -301,6 +303,7 @@
 | [0684-redundant-connection](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0684-redundant-connection) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0813-all-paths-from-source-to-target](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1033,6 +1036,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0051-n-queens) |
+| [0813-all-paths-from-source-to-target](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2107-find-unique-binary-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Monotonic Stack
