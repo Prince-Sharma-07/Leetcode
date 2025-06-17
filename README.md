@@ -151,6 +151,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -322,6 +323,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -525,6 +527,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0042-trapping-rain-water) |
