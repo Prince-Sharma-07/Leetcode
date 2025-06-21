@@ -182,6 +182,7 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1039-find-the-town-judge](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -378,6 +379,7 @@
 | [0952-word-subsets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1031-add-to-array-form-of-integer](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1039-find-the-town-judge](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -494,6 +496,7 @@
 | [0778-reorganize-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0952-word-subsets) |
+| [1039-find-the-town-judge](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
