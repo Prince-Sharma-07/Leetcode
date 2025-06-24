@@ -316,6 +316,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0813-all-paths-from-source-to-target](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -391,6 +392,7 @@
 | [0952-word-subsets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1031-add-to-array-form-of-integer](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1036-rotting-oranges](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -944,6 +946,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1036-rotting-oranges](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
