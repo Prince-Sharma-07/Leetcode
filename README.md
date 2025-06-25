@@ -310,6 +310,7 @@
 | [0322-coin-change](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0684-redundant-connection) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -379,6 +380,7 @@
 | [0455-assign-cookies](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -946,6 +948,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -1021,6 +1024,7 @@
 | [0322-coin-change](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1063-best-sightseeing-pair) |
