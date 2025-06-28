@@ -273,6 +273,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -308,6 +309,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -339,6 +341,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -373,6 +376,7 @@
 | [0162-find-peak-element](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -956,6 +960,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
