@@ -194,6 +194,7 @@
 | [2121-find-if-path-exists-in-graph](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2793-count-the-number-of-complete-components](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sorting
 |  |
@@ -304,6 +305,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -336,6 +338,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
@@ -351,6 +354,7 @@
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2793-count-the-number-of-complete-components](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Array
 |  |
 | ------- |
