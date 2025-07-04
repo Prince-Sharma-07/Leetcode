@@ -296,6 +296,7 @@
 | [0871-keys-and-rooms](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1073-number-of-enclaves](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -331,6 +332,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -351,6 +353,7 @@
 | [0200-number-of-islands](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [1073-number-of-enclaves](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -421,6 +424,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1073-number-of-enclaves](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -977,6 +981,7 @@
 | [0200-number-of-islands](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
