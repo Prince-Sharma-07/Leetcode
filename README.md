@@ -407,6 +407,7 @@
 | [0455-assign-cookies](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0605-can-place-flowers) |
@@ -633,6 +634,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
