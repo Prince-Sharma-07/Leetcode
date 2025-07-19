@@ -510,6 +510,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3194-find-words-containing-character](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3221-find-the-peaks](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3221-find-the-peaks) |
 | [3226-minimum-number-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3226-minimum-number-game) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -583,6 +584,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2777-find-the-distinct-difference-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2777-find-the-distinct-difference-array) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
