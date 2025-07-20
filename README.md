@@ -762,6 +762,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
