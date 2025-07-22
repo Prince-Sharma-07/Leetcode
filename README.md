@@ -463,6 +463,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1803-average-waiting-time) |
+| [1813-maximum-erasure-value](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -568,6 +569,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1117,6 +1119,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1813-maximum-erasure-value](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
