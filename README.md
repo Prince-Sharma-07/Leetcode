@@ -201,6 +201,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -373,6 +374,7 @@
 | [0001-two-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -597,6 +599,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0075-sort-colors) |
