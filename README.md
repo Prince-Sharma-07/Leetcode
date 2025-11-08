@@ -1218,6 +1218,7 @@
 | [0584-find-customer-referee](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0619-biggest-single-number) |
 | [1258-article-views-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1258-article-views-i) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1827-invalid-tweets) |
