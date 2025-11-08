@@ -1223,6 +1223,7 @@
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Ordered Set
 |  |
 | ------- |
