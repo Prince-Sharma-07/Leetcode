@@ -1220,6 +1220,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0619-biggest-single-number) |
 | [1135-customers-who-bought-all-products](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1135-customers-who-bought-all-products) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1258-article-views-i) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1827-invalid-tweets) |
