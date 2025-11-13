@@ -1222,6 +1222,7 @@
 | [1135-customers-who-bought-all-products](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1258-article-views-i) |
+| [1670-patients-with-a-condition](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1811-fix-names-in-a-table](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1827-invalid-tweets) |
