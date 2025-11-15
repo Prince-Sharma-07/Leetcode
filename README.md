@@ -532,6 +532,7 @@
 | [3707-find-the-most-common-response](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3707-find-the-most-common-response) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -598,6 +599,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3707-find-the-most-common-response](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3707-find-the-most-common-response) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
 | ------- |
