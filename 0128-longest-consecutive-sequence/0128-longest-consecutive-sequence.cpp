@@ -4,11 +4,11 @@ public:
         int maxi = 0;
         unordered_set<int> st;
         for(auto i : nums) st.insert(i);
-        for(auto i : nums){
-            int no = i;
-            if(st.find(no-1) == st.end()){
-                while(st.find(no+1) != st.end()) no++;
-                maxi = max(no-i+1, maxi);
+        for(auto i : st){
+            if(st.find(i-1) == st.end()){
+                int no = i;
+                while(st.find(no) != st.end()) no++;
+                maxi = max(no-i, maxi);
             }
         }
         return maxi;
