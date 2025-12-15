@@ -1262,6 +1262,7 @@
 | [1827-invalid-tweets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Ordered Set
 |  |
