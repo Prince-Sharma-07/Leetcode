@@ -437,6 +437,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0890-lemonade-change](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0898-transpose-matrix) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -862,6 +863,7 @@
 | [0778-reorganize-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1078-remove-outermost-parentheses) |
