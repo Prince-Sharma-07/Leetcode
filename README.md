@@ -932,6 +932,7 @@
 | [0496-next-greater-element-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0901-online-stock-span](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0901-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -1183,6 +1184,7 @@
 | [0042-trapping-rain-water](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0901-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Quickselect
 |  |
@@ -1296,6 +1298,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0901-online-stock-span](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0901-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2434-design-a-number-container-system](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Interactive
@@ -1319,4 +1322,8 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
