@@ -437,6 +437,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0739-daily-temperatures) |
@@ -685,6 +686,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
