@@ -396,6 +396,7 @@
 | [0049-group-anagrams](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -777,6 +778,7 @@
 | [0007-reverse-integer](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Prince-Sharma-07/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
