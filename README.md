@@ -547,6 +547,7 @@
 | [3226-minimum-number-game](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3226-minimum-number-game) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3429-special-array-i) |
@@ -720,6 +721,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Prince-Sharma-07/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prince-Sharma-07/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
